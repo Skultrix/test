@@ -23,6 +23,7 @@ main {
   height: 40px;
 
   font-family: Cairo, sans-serif;
+  font-weight: 700;
 }
 
 .reciter-pin {
